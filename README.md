@@ -424,7 +424,7 @@ MIT License © 2026 Ragora AI
 
 # 👨‍💻 Author
 
-### YUG KHATRI
+### SAVAN PATEL
 
 AI/ML Engineer • Python Developer • Generative AI Developer
 
@@ -437,7 +437,7 @@ AI/ML Engineer • Python Developer • Generative AI Developer
 
 For support, collaboration, or enterprise inquiries:
 
-📧 yugkhatri209@gmail.com
+📧 savanmpatel2106@gmail.com
 
 🌐 https://ragora-ai.vercel.app
 
