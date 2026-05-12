@@ -429,7 +429,7 @@ MIT License © 2026 Ragora AI
 AI/ML Engineer • Python Developer • Generative AI Developer
 
 - GitHub: https://github.com/yugg04
-- LinkedIn: https://www.linkedin.com/in/yug04/
+- Linkedin:
 
 ---
 
