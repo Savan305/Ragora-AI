@@ -428,8 +428,8 @@ MIT License © 2026 Ragora AI
 
 AI/ML Engineer • Python Developer • Generative AI Developer
 
-- GitHub: https://github.com/yugg04
-- Linkedin:
+- GitHub: https://github.com/Savan305
+- Linkedin:https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
